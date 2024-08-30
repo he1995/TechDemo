@@ -9,5 +9,6 @@ void test() {
 
 int main() {
     test();
+    cout << "what are you doing" << endl;
     cout << "hello world" << endl;
 }

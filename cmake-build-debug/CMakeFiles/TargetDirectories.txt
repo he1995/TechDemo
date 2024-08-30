@@ -1,3 +1,3 @@
-/Users/helv/CLionProjects/TechDemo/cmake-build-debug/CMakeFiles/TechDemo.dir
-/Users/helv/CLionProjects/TechDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/helv/CLionProjects/TechDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/helv/TechDemo/cmake-build-debug/CMakeFiles/TechDemo.dir
+/Users/helv/TechDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/helv/TechDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

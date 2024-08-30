@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/helv/CLionProjects/TechDemo/cmake-build-debug",
-		"source" : "/Users/helv/CLionProjects/TechDemo"
+		"build" : "/Users/helv/TechDemo/cmake-build-debug",
+		"source" : "/Users/helv/TechDemo"
 	},
 	"version" : 
 	{
